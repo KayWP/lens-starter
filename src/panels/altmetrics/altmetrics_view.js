@@ -6,7 +6,7 @@ var AltmetricsView = function(panelCtrl, config) {
   this.$el.addClass('altmetrics-panel');
 
   // Hide toggle on contruction, it will be displayed once data has arrived
-  this.hideToggle();
+  //this.hideToggle();
 };
 
 AltmetricsView.Prototype = function() {
