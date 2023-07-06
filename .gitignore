@@ -4,3 +4,5 @@
 dist
 .nvmrc
 .python-version
+*.xml
+*.jpg
